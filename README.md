@@ -22,3 +22,6 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+
+From https://www.railstutorial.org/book/beginning 
